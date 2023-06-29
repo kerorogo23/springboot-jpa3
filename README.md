@@ -32,6 +32,21 @@
    - 註冊新帳號
    - 登入
 
+### 帳號功能
+
+1. 註冊新帳號<br>
+   `POST:   localhost:8080/users/register`
+
+2. 登入<br>
+   `POST:   localhost:8080/users/login`<br>
+   request body
+    ```
+    {
+      "email" : "Test100@gmail.com",
+      "password" : "123456"
+    }
+    ```
+
 ### 商品功能：
 1. 新增／查詢／修改／刪除商品(CRUD)
 
@@ -54,17 +69,4 @@
       }
       ```
 
-### 帳號功能
 
-1. 註冊新帳號<br>
-   `POST:   localhost:8080/users/register`
-
-2. 登入<br>
-   `POST:   localhost:8080/users/login`<br>
-   request body
-    ```
-    {
-      "email" : "Test100@gmail.com",
-      "password" : "123456"
-    }
-    ```
