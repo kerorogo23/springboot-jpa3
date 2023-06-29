@@ -7,20 +7,21 @@
 1. Java JDK 11
 2. Spring Boot: 2.3.7.RELEASE
 3. MySQL: 8.0.31
+4. IntelliJ IDEA
 
 
 ## 技術
 
-前端：React
-後端：Java
+* 前端：React
+* 後端：Java
 
-框架：Spring Boot
-資料庫：MySQL
-ORM映射：Spring Date JPA (Hibernate)
+* 框架：Spring Boot
+* 資料庫：MySQL
+* ORM映射：Spring Date JPA (Hibernate)
+* 請求：axios
 
-IDE：IntelliJ IDEA
-版控：Git、GitHub
-測試：Postman
+* 版控：Git、GitHub
+* 測試：Postman
 
 ## API
 
