@@ -18,6 +18,7 @@
 * 框架：Spring Boot
 * 資料庫：MySQL
 * ORM映射：Spring Date JPA (Hibernate)
+* 雜湊(Hash)：MD5 Hash
 * 請求：axios
 
 * 版控：Git、GitHub
